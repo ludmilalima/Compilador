@@ -16,7 +16,7 @@
     O espaço em branco é ignorado, exceto como separador de IDs, NUMs e palavras-chave. 
 
 5. Comentários são cercados pela notação usual de C /*...*/. 
-    Os comentários podem ser colocados em qualquer lugar que possa ser ocupado por um \
-    espaço em branco (ou seja, comentários não podem ser colocados dentro de marcadores),\
+    Os comentários podem ser colocados em qualquer lugar que possa ser ocupado por um 
+    espaço em branco (ou seja, comentários não podem ser colocados dentro de marcadores),
     e podem incluir mais de uma linha.
     Comentários não podem ser aninhados. 
