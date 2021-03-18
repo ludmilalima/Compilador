@@ -2,6 +2,9 @@
 This project features a C minus language compiler based on Professor Kenneth Louden's proposal in the book Compiler Construction: Principles and Practice.
 \
 \
+A partial report of this project can be checked in the CompilerReport.pdf file.
+\
+\
 The target environment is a unicycle MIPS processor.
 \
 \
