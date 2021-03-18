@@ -1,0 +1,20 @@
+1. As palavras-chave da linguagem são as seguintes: 
+    else if int return void while 
+    Todas as palavras-chave são reservadas e devem ser escritas com caixa baixa. 
+
+2. Os símbolos especiais são os seguintes: 
+    + - * / < <= > >= == != = ; , () [] {} /* */ 
+
+3. Há, ainda, os marcadores ID e NUM, definidos pelas expressões regulares a seguir: 
+    ID = letra letra* 
+    NUM = dígito dígito* 
+    letra = a|..|z|A|..|Z 
+    dígito = 0|..|9 
+    Existe diferença entre caixa baixa e caixa alta.
+
+4. Espaço em branco é composto por brancos, mudanças de linha e tabulações. 
+    O espaço em branco é ignorado, exceto como separador de IDs, NUMs e palavras-chave. 
+
+5. Comentários são cercados pela notação usual de C /*...*/. 
+    Os comentários podem ser colocados em qualquer lugar que possa ser ocupado por um espaço em branco (ou seja, comentários não podem ser colocados dentro de marcadores), e podem incluir mais de uma linha.
+    Comentários não podem ser aninhados. 
